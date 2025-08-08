@@ -5,7 +5,7 @@
 #ifndef OPENWHEEL_H
 #define OPENWHEEL_H
 
-#define HIDRAW_DEVICE "/dev/hidraw2"
+#define HIDRAW_DEVICE "/dev/hidraw3"
 #define DIAL_ROTATE_SIGNAL "Rotate"
 #define DIAL_PRESS_SIGNAL  "Press"
 #define BUTTON_DOWN  0x01

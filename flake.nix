@@ -16,6 +16,7 @@
       } {
           packages = with pkgs; [
             pkg-config
+            dbus
             ninja
             cmake
             python3
